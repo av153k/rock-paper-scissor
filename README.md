@@ -1,4 +1,4 @@
-[![Codemagic build status](https://api.codemagic.io/apps/5f18059e9514cc35b2fa742c/5f18059e9514cc35b2fa742b/status_badge.svg)](https://codemagic.io/apps/5f18059e9514cc35b2fa742c/5f18059e9514cc35b2fa742b/latest_build)
+[![Codemagic build status](https://api.codemagic.io/apps/5f18059e9514cc35b2fa742c/5f18059e9514cc35b2fa742b/status_badge.svg)](https://rock-paper-scissors.codemagic.app)
 
 ## rock_paper_scissor
 
